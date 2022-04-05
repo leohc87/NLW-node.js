@@ -1,0 +1,20 @@
+- Tipos de requisições : 
+* GET => Buscar info
+ * POST => Inserir info
+ * PUT => Alterar info
+ * DELETE => Apagar info
+ * PATCH => Alterar info especifica
+ */
+
+/*
+TIPOS DE PARAMETROS:
+ * Routes Params => http://localhost:3000/produtos/564564561561321
+ * Query Params => .../produtos?name=teclado&description=tecladobom
+ * Body Params => {
+ * "name: "teclado",
+ * "description": "teclado bom"
+ * }
+*/
+
+//REQUEST => Info Entrando
+  //RESPONSE => Info Saindo
